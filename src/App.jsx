@@ -10,7 +10,7 @@ import SignUp from './pages/SignUp';
 import MainLayout from './layouts/MainLayout';
 import Loader from './components/Loader';
 import { PokemonProvider } from './context/pokemonContext';
-import { UserProvider } from './context/userContext';
+import { UserProvider } from './context/UserContext';
 import ProtectedRoute from './components/ProtectedRoute';
 import { ToastContainer } from 'react-toastify';
 
